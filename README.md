@@ -10,4 +10,4 @@ These are some things I like to do:
 * Take Pictures
 
 Here is a picture I took:
-![alt text](path to the image)
+![alt text](./images/Donuts3.jpg)
