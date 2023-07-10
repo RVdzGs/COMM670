@@ -7,7 +7,7 @@ Hi there I'm **Raul**! I am a _**web developer and designer**_.
 These are some things I like to do: 
 * Design cool stuff
 * Take long walks
-* Take Pictures
+* Eat Donuts
 
-Here is a picture I took:
-![alt text](./images/Donuts3.jpg)
+Here is a picture of my favorite donut:
+![Chocolate Donuts](./images/Donuts3.jpg)
